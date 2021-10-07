@@ -1,20 +1,17 @@
-
 # To-do List
 
 To-do list is an application where the user can add his tasks in a list, being able to check and uncheck as it is completed.
-
 
 ## Tech Stack
 
 **Client:** React, TypeScript, styled-components
 
-
-  
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/dBLNPRN.png)
 
-![App Screenshot](https://i.imgur.com/j0ien23.png)  
+![App Screenshot](https://i.imgur.com/j0ien23.png)
+
 ## Run Locally
 
 Clone the project
@@ -41,9 +38,10 @@ Start the server
   yarn start
 ```
 
-  
+## Demo
+
+- [todo](https://todo-livid-one.vercel.app/)
+
 ## Authors
 
 - [@lorenabelo](https://github.com/Lorenabelo)
-
-  
